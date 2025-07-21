@@ -1,3 +1,6 @@
+
+# Project: Text based Calculator ~ project idea credit -tech with tim
+
 def inp_num(num):
     while True:
         try:
